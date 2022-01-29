@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""cbddd
+"""
 Contains the TestCityDocs classes
 """
 
