@@ -108,4 +108,4 @@ class HBNBCommand(cmd.Cmd):
         args = shlex.split(arg)
         integers = ["number_rooms", "number_bathrooms", "max_guest",
                     "price_by_night"]
-        floats = ["latitude", "longitude"
+        floats = ["latitude", "longitude"]
