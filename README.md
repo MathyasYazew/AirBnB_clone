@@ -2,7 +2,7 @@
 
 The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 
-<b> Authors </b>
+<b> Authors </b> <br>
 Mathyas Yazew, <mathyasyazew@gmail.com> <br>
 Nebyat Ahmed, <
 
