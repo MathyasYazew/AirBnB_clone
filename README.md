@@ -2,10 +2,6 @@
 
 The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 
-<b> Authors </b> <br>
-Mathyas Yazew, <mathyasyazew@gmail.com> <br>
-Nebyat Ahmed, <
-
 The AirBnB website operates an online marketplace for travel information and booking services. The Company offers lodging, home-stay, and tourism services via websites and mobile applications. Airbnb serves clients worldwide.
 
 <h2>Files and Directories</h2>
@@ -58,3 +54,7 @@ The console will be a tool to validate this storage engine.
 
 * expose all your objects stored via a JSON web interface
 * manipulate your objects via a RESTful API
+
+<b> Authors </b> <br>
+Mathyas Yazew, <mathyasyazew@gmail.com> <br>
+Nebyat Ahmed, <
