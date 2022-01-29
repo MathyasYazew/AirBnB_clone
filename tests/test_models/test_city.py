@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""dde
+"""ddeq
 Contains the TestCityDocs classes
 """
 
