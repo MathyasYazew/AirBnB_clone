@@ -3,7 +3,7 @@
 The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 
 <b> Authors </b>
-Mathyas Yazew,<mathyasyazew@gmail.com>,
+Mathyas Yazew, <mathyasyazew@gmail.com> <br>
 Nebyat Ahmed, <
 
 The AirBnB website operates an online marketplace for travel information and booking services. The Company offers lodging, home-stay, and tourism services via websites and mobile applications. Airbnb serves clients worldwide.
