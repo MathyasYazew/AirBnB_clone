@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""fh
+"""
 Contains the TestCityDocs classes
 """
 
