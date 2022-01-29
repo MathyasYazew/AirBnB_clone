@@ -54,7 +54,7 @@ The console will be a tool to validate this storage engine.
 
 * expose all your objects stored via a JSON web interface
 * manipulate your objects via a RESTful API
-
+----------------------------------------
 <b> Authors </b> <br>
 Mathyas Yazew, <mathyasyazew@gmail.com> <br>
 Nebyat Ahmed, <
