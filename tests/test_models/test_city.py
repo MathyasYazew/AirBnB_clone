@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""v"
+"""
 Contains the TestCityDocs classes
 """
 
