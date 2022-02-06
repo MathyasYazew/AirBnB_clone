@@ -1,0 +1,1 @@
+#  Project folder for simple static webpage for this project
